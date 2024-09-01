@@ -1,1 +1,1 @@
-# This Repositry contains Learings and projects of AI & ML Internship in Dlithe company.
+# This Repositry contains Learnings and projects of AI & ML during the Internship in the company, Dlithe Private limited.
